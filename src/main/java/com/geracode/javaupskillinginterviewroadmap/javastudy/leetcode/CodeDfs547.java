@@ -1,6 +1,6 @@
 package com.geracode.javaupskillinginterviewroadmap.javastudy.leetcode;
 
-public class CodeBFS547 {
+public class CodeDfs547 {
 
 
     public int findCircleNum(int[][] isConnected) { //[[1,1,0],[1,1,0],[0,0,1]]
